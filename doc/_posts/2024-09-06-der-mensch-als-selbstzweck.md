@@ -24,3 +24,4 @@ Die Herausforderung besteht darin, den Wert des Menschen nicht als abstraktes Id
 
 Dies erfordert eine breite gesellschaftliche Debatte, in der die verschiedenen Perspektiven aufeinander treffen und kompromissbereite Lösungen gefunden werden. Derzeit (Sommer 2024\) scheint diese Debatte in Deutschland an Fahrt aufgenommen zu haben, es ist wichtig dass diese Debatte nicht wieder im nichts versandet, 
 
+2024-09-06

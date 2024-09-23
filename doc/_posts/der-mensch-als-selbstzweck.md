@@ -1,6 +1,5 @@
 --- 
-title: “Der Wert des Menschen, und der Mensch als Selbstzweck”  
-permalink: /doc/der-mensch-als-selbstzweck/  
+title: “Der Wert des Menschen, und der Mensch als Selbstzweck”   
 ---
 
 Der **Wert des Menschen** ist eine Frage, die Philosophen seit Jahrtausenden beschäftigt. Während sich die Antworten im Laufe der Zeit gewandelt haben, besteht ein grundlegender Konsens darin, dass der Mensch einen **Eigenwert** besitzt, der **über seinen Nutzen für andere hinausgeht**. Immanuel Kant formulierte es prägnant: **Der Mensch soll niemals bloß als Mittel, sondern immer zugleich als Zweck an sich selbst betrachtet werden**.
